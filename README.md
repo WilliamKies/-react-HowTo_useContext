@@ -3,8 +3,8 @@
 
 Ce projet est une démonstration pratique de l'utilisation du hook useContext en React. Il comprend deux composants principaux :
 
-> 1. ThemeProvider : Un composant qui gère le contexte global du thème (mode clair ou sombre.
-> 2. ThemeButton : Un bouton qui affiche le thème actuel et permet de le changer.
+1. ThemeProvider : Un composant qui gère le contexte global du thème (mode clair ou sombre.
+2. ThemeButton : Un bouton qui affiche le thème actuel et permet de le changer.
 
 &nbsp;
 
